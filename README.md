@@ -6,6 +6,7 @@ GigHub API is a FastAPI application for managing freelance job listings. It allo
 
 ## Features
 
+
 - View all gigs
 - Filter gigs by category and budget
 - View a gig by ID
